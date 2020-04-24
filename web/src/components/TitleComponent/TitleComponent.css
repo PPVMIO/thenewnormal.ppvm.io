@@ -1,0 +1,15 @@
+#Title {
+  color: white;
+  /* background: rgba(76, 175, 80, 0) */
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: underline;
+}
+
+.weeks {
+  width: 80%;
+  margin: 0 auto;
+  color: white;
+}

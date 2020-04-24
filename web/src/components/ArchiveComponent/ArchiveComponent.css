@@ -1,0 +1,49 @@
+@media only screen and (max-width: 3200px) {
+  img {
+    max-width: 260px;
+    max-height: 340px;
+    vertical-align: middle;
+    padding: 10px;
+  }
+}
+
+@media only screen and (max-width: 1600px) {
+  img {
+    max-width: 200px;
+    max-height: 260px;
+    vertical-align: middle;
+    padding: 8px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  img {
+    max-width: 180px;
+    vertical-align: middle;
+    padding: 5px;
+  }
+}
+
+
+.weeks{
+  padding-top: 1%;
+  /* height: 2%; */
+  color: rgb(207, 207, 207);
+  position: absolute;
+  z-index: 10;
+  margin-left: 11%;
+}
+
+.btn-secondary, .btn-secondary:focus, .btn-secondary:hover  {
+  background-color: rgba(94, 87, 87, 0.4);
+}
+
+.images {
+  vertical-align: middle;
+
+}
+
+.weeks:a {
+  color: black;
+  text-decoration: underline;
+}

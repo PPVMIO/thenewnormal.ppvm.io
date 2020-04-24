@@ -1,0 +1,8 @@
+.DS_Store
+.terraform
+lambda/venv
+lambda/__pycache__
+lambda/dist
+lambda/*.zip
+web/node_modules
+web/build

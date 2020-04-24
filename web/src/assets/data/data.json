@@ -1,0 +1,126 @@
+{
+  "id": "deaths",
+  "data": [
+    {
+      "date": "March 1, 2020",
+      "deaths": "0"
+    },
+    {
+      "date": "March 2, 2020",
+      "deaths": "0"
+    },
+    {
+      "date": "March 3, 2020",
+      "deaths": "0"
+    },
+    {
+      "date": "March 4, 2020",
+      "deaths": "0"
+    },
+    {
+      "date": "March 5, 2020",
+      "deaths": "0"
+    },
+    {
+      "date": "March 6, 2020",
+      "deaths": "0"
+    },
+    {
+      "date": "March 7, 2020",
+      "deaths": "0"
+    },
+    {
+      "date": "March 8, 2020",
+      "deaths": "0"
+    },
+    {
+      "date": "March 9, 2020",
+      "deaths": "0"
+    },
+    {
+      "date": "March 10, 2020",
+      "deaths": "0",
+      
+    },
+    {
+      "date": "March 11, 2020",
+      "deaths": "0"
+    },
+    {
+      "date": "March 12, 2020",
+      "deaths": "0"
+    },
+    {
+      "date": "March 13, 2020",
+      "deaths": "0"
+    },
+    {
+      "date": "March 14, 2020",
+      "deaths": "1"
+    },
+    {
+      "date": "March 15, 2020",
+      "deaths": "5"
+    },
+    {
+      "date": "March 16, 2020",
+      "deaths": "7"
+    },
+    {
+      "date": "March 17, 2020",
+      "deaths": "10"
+    },
+    {
+      "date": "March 18, 2020",
+      "deaths": "20"
+    },
+    {
+      "date": "March 19, 2020",
+      "deaths": "22"
+    },
+    {
+      "date": "March 20, 2020",
+      "deaths": "43"
+    },
+    {
+      "date": "March 21, 2020",
+      "deaths": "60"
+    },
+    {
+      "date": "March 22, 2020",
+      "deaths": "99"
+    },
+    {
+      "date": "March 23, 2020",
+      "deaths": "131"
+    },
+    {
+      "date": "March 24, 2020",
+      "deaths": "192"
+    },
+    {
+      "date": "March 25, 2020",
+      "deaths": "280"
+    },
+    {
+      "date": "March 26, 2020",
+      "deaths": "365"
+    },
+    {
+      "date": "March 27, 2020",
+      "deaths": "450"
+    },
+    {
+      "date": "March 28, 2020",
+      "deaths": "672"
+    },
+    {
+      "date": "March 29, 2020",
+      "deaths": "776"
+    },
+    {
+      "date": "March 30, 2020",
+      "deaths": "914"
+    }
+  ]
+}

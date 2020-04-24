@@ -1,0 +1,50 @@
+
+.container-true {
+  width: 100%;
+  height: 80%;
+  position: absolute;
+  margin: 2px;
+  margin: 0 auto;
+
+  
+}
+.chart{
+  width: 100%;
+  height: 100%;            
+  position: absolute;
+  opacity: 0.8;
+  z-index: 1;
+}
+.archive{
+  height: 100%;
+  margin: 0 auto;
+}
+.loading{
+  /* padding: 5px; */
+  width: 100%;
+  height: 100%;            
+  position: absolute;
+  z-index: 1;
+  color: white;
+}
+
+
+.loading>h1 {
+  font-size: 30px;
+}
+
+#text {
+  fill: rgb(255, 255, 255)
+}
+
+img {
+  padding: 1%;
+}
+
+
+.col {
+  /* width: 90%; */
+  margin: 2px;
+  /* background-color: black */
+
+}
