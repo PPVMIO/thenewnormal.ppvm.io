@@ -33,10 +33,11 @@ def handler(event, context):
 
   for row in hosp_data_csv:
     # for col_name, value in row.items():
-    date = row['\ufeffDATE_OF_INTEREST']
+    print(row)
+    date = row['DATE_OF_INTEREST']
 
-    new_cases_daily = row['NEW_COVID_CASE_COUNT']
-    hospitalized_daily = row['HOSPITALIZED_CASE_COUNT']
+    new_cases_daily = row['CASE_COUNT']
+    hospitalized_daily = row['HOSPITALIZED_COUNT']
     death_count_daily = row['DEATH_COUNT']
 
     cases_total = check_empty_string(new_cases_daily) + cases_total

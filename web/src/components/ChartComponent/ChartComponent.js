@@ -31,7 +31,7 @@ class ChartComponent extends React.Component{
         margin={{ top: 50, right: 90, bottom: 50, left: 90 }}
         yScale={{ type: 'log', base: 10, max: 1000000 }}
         axisLeft={{ tickValues: [10, 100, 1000, 10000, 100000], tickSize: 2, symbolSize: 18 }}
-        axisBottom={{ tickValues: ['3/8/20', '3/22/20', '4/5/20', '4/19/20'], tickSize: 2, symbolSize: 18 }}
+        // axisBottom={{ tickValues: ['3/8/20', '3/22/20', '4/5/20', '4/19/20'], tickSize: 2, symbolSize: 18 }}
         colors={{ scheme: 'greys' }}
         theme={this.theme}
         pointSize={1}
